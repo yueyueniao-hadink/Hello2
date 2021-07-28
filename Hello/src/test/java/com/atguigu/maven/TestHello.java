@@ -13,6 +13,7 @@ public class TestHello {
         assertEquals("Hello atguigu!", resule);
         String s = "test测试撒地方看见了撒旦JFK";
         System.out.println(s);
+        System.out.println("test");
 
 
     }
